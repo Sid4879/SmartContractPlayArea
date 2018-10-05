@@ -1,2 +1,2 @@
-# SmartContractPlayArea
-Playing around with Smart contracts
+# Play area
+New to coding
